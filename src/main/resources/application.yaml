@@ -1,0 +1,10 @@
+
+spring:
+  application:
+    name: AppliBanque
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/applibanque
+    username: postgres
+    password: "MDP"
+    driver-class-name: org.postgresql.Driver
